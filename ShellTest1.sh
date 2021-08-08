@@ -3,11 +3,12 @@ clear
 echo "What is your name?"
 read name
 echo "How are you $name?"
-echo "Good to hear $name"
-echo "What is your age?"
+read status
+echo "Good to hear $name $status"
+echo "What is your age $name?"
 read age
 echo "Your Age: $age"
 echo "Nice to meet you $name"
-echo "By for now $name"
+echo "Bye for now $name"
 #Testvar = "Bye"
 #echo $Testvar
