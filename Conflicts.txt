@@ -1,0 +1,1 @@
+This fiel is created to see how to resolve merge conflicts.
