@@ -1,4 +1,6 @@
 This fiel is created to see how to resolve merge conflicts.
 
 It requires to be fixed the Typo.
-Updates Done by Test3.
+This file is created to see how to resolve merge conflicts.
+
+Updated by Test4
