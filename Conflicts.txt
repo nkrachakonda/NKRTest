@@ -1,3 +1,5 @@
 This file is created to see how to resolve merge conflicts.
 
+Adding fix1 into this file.
+
 Updated by Test4
