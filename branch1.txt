@@ -1,2 +1,0 @@
-This is under NKSSR branch to see how cloning works.
-Clone file created with branch1 name

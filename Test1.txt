@@ -1,3 +1,0 @@
-This is a test file to see how clone function works.
-Adding new line after generating PAT instead of git password.
-Monitoring how stash works.
